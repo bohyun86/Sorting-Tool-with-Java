@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Sorting Tool with Java/*
+!/Sorting Tool with Java/task/
+/Sorting Tool with Java/task/*
+!/Sorting Tool with Java/task/src
+!/Sorting Tool with Java/task/out.txt
+
+# Project exclude paths
+/Topics/Standard logger/Find integer values of Log levels/out/
+/Topics/Standard logger/Find integer values of Log levels/out/production/classes/
